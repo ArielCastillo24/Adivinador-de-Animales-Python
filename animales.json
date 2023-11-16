@@ -1,0 +1,42 @@
+{
+    "elefante": {
+        "bits_totales": 9,
+        "bits_posicion": 9
+    },
+    "perro": {
+        "bits_totales": 513,
+        "bits_posicion": 513
+    },
+    "medusa": {
+        "bits_totales": 66,
+        "bits_posicion": 66
+    },
+    "nutria": {
+        "bits_totales": 131,
+        "bits_posicion": 131
+    },
+    "jirafa": {
+        "bits_totales": 257,
+        "bits_posicion": 257
+    },
+    "paloma": {
+        "bits_totales": 20,
+        "bits_posicion": 20
+    },
+    "caiman": {
+        "bits_totales": 1155,
+        "bits_posicion": 1155
+    },
+    "perico": {
+        "bits_totales": 52,
+        "bits_posicion": 52
+    },
+    "mariposa": {
+        "bits_totales": 8,
+        "bits_posicion": 8
+    },
+    "ajolote": {
+        "bits_totales": 11,
+        "bits_posicion": 11
+    }
+}
